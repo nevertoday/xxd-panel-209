@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 209"
+  short_description: "Minimal Paper-based Image Archive"
+  default_prompt: "Use $xxd-panel-209 to transform my photograph following the complete canonical source brief."
