@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 209｜Minimal Paper-based Image Archive: compresses a photo into one small image module, like a memory cut from the original and kept in an archive, placed off-centre, against an edge or cropped on a large near-white paper page, so the page, margins and a faint fold carry the composition. Colour comes from the photo: a very light natural paper tone, one calm main colour and one spot of livelier light or colour as the emotional focus. Small, sparse archive-style captions, titles or notes sit at the image edge or in the margins, and the paper shows only faint fibre, folds and a scanned-print feel. The result reads more as an edited photobook page than an illustration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-209 or asks for minimal archival, photobook-page or quiet paper-based editorial layouts from a photo.",
+  "short_description": "极简纸张影像档案：把照片压成纸面上的一小块图像，配档案式小字和一处情绪亮点，像一页摄影书",
+  "zh-CN": {
+    "name": "极简纸张影像档案",
+    "tagline": "把照片压成纸面上的一小块图像，配几行档案式小字，像一页被认真保存的摄影书。",
+    "look": "照片被压缩成一个小比例的图像模块，像从原照片中截取并收藏的一段记忆，可以偏心、贴边或局部裁切。大片近白纸面是画面的主要结构，和小图、文字、页边、纸张折痕一起形成安静的阅读节奏。颜色从照片里取：极浅的自然纸色、一个沉静的主色，再留一处更有生命力的光或亮色作情绪焦点。文字是细小疏朗的档案式标注，如标题、图注或记录性短句，排在图像边缘或页边；纸面带极轻的纤维、折痕和扫描印刷感。",
+    "traits": [
+      "小图像模块",
+      "大片留白",
+      "档案标注",
+      "纸张折痕",
+      "一处亮点"
+    ],
+    "good": [
+      "有一处光或亮色可作情绪焦点的照片：窗边的光、一朵红花、一盏街灯",
+      "安静、有时间感的日常照：老房间、旅途风景、家人的背影",
+      "想做摄影书、作品集或私人档案页的照片"
+    ],
+    "poor": [
+      "需要主体以大图展示的照片：商品主图、海报主视觉",
+      "想要插画、手绘或强烈风格化转译的需求，这里更接近一页编辑排版",
+      "想要信息栏、大标题或浓重复古滤镜的需求"
+    ]
+  },
+  "en": {
+    "name": "Minimal Paper-based Image Archive",
+    "tagline": "Shrinks a photo to a small image on a paper page with archive-style captions, like a photobook page.",
+    "look": "Your photo is compressed into a small image module, like a fragment of memory cut from the original and kept; it can sit off-centre, against an edge or be cropped. A large near-white paper page is the main structure, and with the small image, the text, the margins and a paper fold it sets up a quiet reading rhythm. Colours come from the photo: a very light natural paper tone, one calm main colour, and one spot of livelier light or colour kept as the emotional focus. Text is small, sparse archive-style labelling, such as a title, caption or short record, set at the image edge or in the margins, and the paper shows only faint fibre, folds and a scanned-print feel.",
+    "traits": [
+      "Small image module",
+      "Wide whitespace",
+      "Archive captions",
+      "Paper fold",
+      "One bright spot"
+    ],
+    "good": [
+      "Photos with one light or bright spot that can carry the mood: light at a window, a red flower, a street lamp",
+      "Quiet everyday photos with a sense of time: an old room, travel scenery, a family member seen from behind",
+      "Photos you want for a photobook, portfolio or private archive page"
+    ],
+    "poor": [
+      "Photos that need the subject shown large: main product shots, key poster visuals",
+      "Requests for illustration, hand drawing or strong stylisation, since this is closer to an edited page layout",
+      "Requests for information bars, big headlines or heavy vintage filters"
+    ]
+  },
+  "ja": {
+    "name": "紙の質感を持つ極小画像アーカイブ",
+    "tagline": "写真を紙面の小さな画像に縮め、アーカイブ風の小さな文字を添えて、大切に保管された写真集の一頁のようにします。",
+    "look": "写真を小さな画像のブロックに凝縮し、元の写真から切り取って保管した記憶の一片のようにします。中心を外したり、端に寄せたり、一部を切り取ったりしてもかまいません。白に近い大きな紙面が画面の主な構造で、小さな画像、文字、余白、紙の折り目とともに静かな読みのリズムをつくります。色は写真から取り、ごく淡い自然な紙の色、落ち着いた主色を一つ、そして気持ちの焦点として生き生きした光や色を一か所だけ残します。文字は小さく間隔の広いアーカイブ風の記載で、見出し、キャプション、記録のような短い言葉を画像の縁や余白に置きます。紙面にはごくかすかな繊維、折り目、スキャンした印刷物のような感触があります。",
+    "traits": [
+      "小さな画像ブロック",
+      "広い余白",
+      "アーカイブの記載",
+      "紙の折り目",
+      "一点の明るさ"
+    ],
+    "good": [
+      "気持ちの焦点になる光や明るい色が一か所ある写真：窓辺の光、一輪の赤い花、街灯",
+      "静かで時間の気配がある日常写真：古い部屋、旅の風景、家族の後ろ姿",
+      "写真集、ポートフォリオ、個人的なアーカイブのページにしたい写真"
+    ],
+    "poor": [
+      "主役を大きく見せる必要がある写真：商品のメイン画像、ポスターのキービジュアル",
+      "イラスト、手描き、強い様式化を求める場合（ここは編集されたページのレイアウトに近い仕上がりです）",
+      "情報欄、大きな見出し、強いレトロフィルターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이 질감의 미니멀 이미지 아카이브",
+    "tagline": "사진을 종이 위의 작은 이미지로 줄이고 아카이브식 작은 글자를 더해, 정성껏 보관한 사진집의 한 페이지처럼 만듭니다.",
+    "look": "사진을 작은 이미지 블록으로 압축해 원본에서 잘라 보관한 기억의 한 조각처럼 보이게 합니다. 중심에서 비켜나거나 가장자리에 붙거나 일부가 잘려도 됩니다. 흰색에 가까운 넓은 종이 면이 화면의 주된 구조이고, 작은 이미지, 글자, 여백, 종이 접힌 자국과 함께 조용한 읽기의 리듬을 만듭니다. 색은 사진에서 가져와 아주 옅은 자연스러운 종이색, 차분한 주색 하나, 그리고 감정의 초점이 되는 더 생기 있는 빛이나 색 한 곳을 남깁니다. 글자는 작고 성긴 아카이브식 표기로 제목, 캡션, 기록 같은 짧은 문장을 이미지 가장자리나 여백에 둡니다. 종이에는 아주 옅은 섬유, 접힌 자국, 스캔한 인쇄물 같은 느낌만 있습니다.",
+    "traits": [
+      "작은 이미지 블록",
+      "넓은 여백",
+      "아카이브 표기",
+      "종이 접힘",
+      "밝은 한 점"
+    ],
+    "good": [
+      "감정의 초점이 될 빛이나 밝은 색이 한 곳 있는 사진: 창가의 빛, 빨간 꽃 한 송이, 가로등",
+      "조용하고 시간의 결이 느껴지는 일상 사진: 오래된 방, 여행 풍경, 가족의 뒷모습",
+      "사진집, 포트폴리오, 개인 아카이브 페이지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공을 크게 보여야 하는 사진: 상품 대표 이미지, 포스터 메인 비주얼",
+      "일러스트, 손그림, 강한 양식화를 원하는 경우(여기서는 편집된 페이지 레이아웃에 가깝습니다)",
+      "정보 막대, 큰 헤드라인, 짙은 레트로 필터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أرشيف صور ورقي بسيط",
+    "tagline": "يصغّر الصورة إلى صورة صغيرة على صفحة ورقية مع تعليقات أرشيفية قليلة، كصفحة من كتاب صور محفوظ بعناية.",
+    "look": "تُضغط صورتك في وحدة صورية صغيرة، كأنها شذرة من الذاكرة اقتُطعت من الأصل وحُفظت؛ وقد تبتعد عن المركز أو تلامس حافة أو يُقتطع جزء منها. صفحة ورقية واسعة قريبة من البياض هي البنية الرئيسية، وتصنع مع الصورة الصغيرة والنص والهوامش وثنية في الورق إيقاع قراءة هادئاً. تُستمد الألوان من الصورة: درجة ورق طبيعية فاتحة جداً، ولون رئيسي هادئ واحد، وبقعة واحدة من ضوء أو لون أكثر حيوية تبقى مركزاً للمشاعر. النص تسميات أرشيفية صغيرة متباعدة، كعنوان أو تعليق أو سطر تسجيلي قصير، عند حافة الصورة أو في الهوامش، ولا يظهر على الورق إلا أثر باهت من الألياف والثنيات وإحساس الطباعة الممسوحة ضوئياً.",
+    "traits": [
+      "وحدة صورية صغيرة",
+      "فراغ واسع",
+      "تعليقات أرشيفية",
+      "ثنية الورق",
+      "بقعة مضيئة واحدة"
+    ],
+    "good": [
+      "صور فيها ضوء أو بقعة زاهية واحدة تحمل المزاج: ضوء عند نافذة، زهرة حمراء، مصباح شارع",
+      "صور يومية هادئة فيها إحساس بالزمن: غرفة قديمة، مناظر من رحلة، أحد أفراد العائلة من الخلف",
+      "صور تريدها لكتاب صور أو ملف أعمال أو صفحة أرشيف شخصي"
+    ],
+    "poor": [
+      "صور تحتاج إلى عرض العنصر كبيراً: الصور الرئيسية للمنتجات، المرئيات الأساسية للملصقات",
+      "طلب رسم توضيحي أو رسم يدوي أو أسلبة قوية، لأن النتيجة أقرب إلى صفحة محررة",
+      "طلب أشرطة معلومات أو عناوين كبيرة أو مرشحات عتيقة ثقيلة"
+    ]
+  }
+}

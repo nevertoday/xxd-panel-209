@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-209
-description: "Create Panel 209 raster artwork: Minimal Paper-based Image Archive. Use when the user invokes xxd-panel-209 or requests this specific visual language."
+description: "XXD Panel 209｜Minimal Paper-based Image Archive: compresses a photo into one small image module, like a memory cut from the original and kept in an archive, placed off-centre, against an edge or cropped on a large near-white paper page, so the page, margins and a faint fold carry the composition. Colour comes from the photo: a very light natural paper tone, one calm main colour and one spot of livelier light or colour as the emotional focus. Small, sparse archive-style captions, titles or notes sit at the image edge or in the margins, and the paper shows only faint fibre, folds and a scanned-print feel. The result reads more as an edited photobook page than an illustration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-209 or asks for minimal archival, photobook-page or quiet paper-based editorial layouts from a photo."
 ---
 
 # XXD Panel 209

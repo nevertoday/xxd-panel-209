@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 209"
-  short_description: "Minimal Paper-based Image Archive"
-  default_prompt: "Use $xxd-panel-209 to transform my photograph following the complete canonical source brief."
+  short_description: "极简纸张影像档案：把照片压成纸面上的一小块图像，配档案式小字和一处情绪亮点，像一页摄影书"
+  default_prompt: "Use $xxd-panel-209 to turn my photo into Minimal Paper-based Image Archive artwork."
